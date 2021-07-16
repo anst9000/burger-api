@@ -4,19 +4,13 @@
   "description": "A burger REST API",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node ."
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/anst9000/burger-api.git"
   },
-  "keywords": [
-    "burger",
-    "api",
-    "rest",
-    "heroku",
-    "rapidapi"
-  ],
+  "keywords": [  "burger",  "api",  "rest",  "heroku", "rapidapi" ],
   "author": "Anders Strömberg <acke@acke.site>",
   "license": "MIT",
   "bugs": {
