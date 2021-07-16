@@ -1,0 +1,30 @@
+{
+  "name": "burger-api",
+  "version": "1.0.0",
+  "description": "A burger REST API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anst9000/burger-api.git"
+  },
+  "keywords": [
+    "burger",
+    "api",
+    "rest",
+    "heroku",
+    "rapidapi"
+  ],
+  "author": "Anders Strömberg <acke@acke.site>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anst9000/burger-api/issues"
+  },
+  "homepage": "https://github.com/anst9000/burger-api#readme",
+  "dependencies": {
+    "json": "^11.0.0",
+    "json-server": "^0.16.3"
+  }
+}
